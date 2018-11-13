@@ -1,0 +1,135 @@
+body {
+	background-color: black;
+}
+.navbar {
+	background-color: white;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	
+}
+p {
+	font-family: 'Unica One', cursive;
+}
+.thetruemeaningbg {
+	background: linear-gradient(to top left, #ff9933 0%, #336699 38%);
+}
+.calltoactiongrid {
+	display: grid;
+	font-family: 'Charmonman', cursive;
+	font-size: 25px;
+	color: white;
+	border: 2px white dotted;
+	height: 50px:
+	text-align: center;
+}
+.grid {
+  display: grid;
+  border: 2px red solid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.grid2 {
+	display: grid;
+	border: 2px white dotted;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.grid3 {
+	display: grid;
+	border: 2px grey solid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.grid4 {
+	display: grid;
+	border: 2px red solid;
+	grid-template-columnms: 1fr 1fr 1fr;
+}
+.grid5 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.gridimagej {
+	display: grid;
+	
+}
+.box {
+  background-color: black;
+  color: red;
+  border-radius: 5px;
+  border: 2px red solid;
+}
+.box2 {
+	background-color:#B6B6C8;
+	color:white;
+	border-radius 5px;
+	border: 2px white dotted;
+}
+h1 {
+	font-family: 'Piedra', cursive;
+	color: red;
+	font-size: 80px;
+}
+h2 {
+	font-family: 'Charmonman', cursive;
+}
+h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color: white;
+}
+h4 {
+	font-family: 'Charmonman', cursive;
+	font-size: 50px;
+	color: white;
+}
+h5 {
+	font-family: 'Codystar', cursive;
+}
+
+.judygarland {
+	grid-column-start: 1;
+	grid-column-end: span 1;
+	color: #FFFFFF;
+	font-family: 'Arvo', serif;
+}
+.imagejudy {
+	width: 300px;
+	height: 300px;
+}
+.violadavis {
+	grid-column-start: 2;
+	grid-column-end: span 1;
+	grid-row-start: 1;
+	grid-row-end: span 2;
+	color: #FFFFFF;
+	font-family: 'Arvo', serif;
+}
+.imageviola {
+	width: 300px;
+	height: 300px;
+}
+.marilynmonroe {
+	grid-column-start: 3;
+	grid-column-end: span 1;
+	color: #FFFFFF;
+	font-family: 'Arvo', serif;
+}
+.imagemarilyn {
+	width: 300px;
+	height: 300px;
+}
+.salmahayek {
+	color: #FFFFFF; 
+	font-family: 'Arvo', serif;
+}
+.imagesalma {
+	width: 300px;
+	height: 300px;
+}
+.thetruemeaning {
+	color: #FFFFFF;
+	font-family: 'Arvo', serif;
+}
+.imgtruemeaning {
+	width: 300px;
+	height: 300px;
+}
+
+
